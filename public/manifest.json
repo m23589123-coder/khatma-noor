@@ -1,0 +1,22 @@
+{
+  "name": "ختمة النور",
+  "short_name": "ختمة النور",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064E3B",
+  "theme_color": "#042f2e",
+  "description": "صدقة جارية على روح زين العابدين محمد سليم السكري",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3389/3389733.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3389/3389733.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
